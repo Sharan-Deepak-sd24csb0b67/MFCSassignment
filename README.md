@@ -8,4 +8,3 @@ This is an extensive list of questions on the **Mathematical Foundations of Comp
 - **Elementary Combinatorics**
 
 **Assigned and Overseen by Prof. Katakamsetty Venkatakrishna Rao, Department of Computer Science and Engineering**
-Collected and compiled by Sharan Deepak, CSE '28 
