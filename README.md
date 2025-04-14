@@ -7,4 +7,4 @@ This is an extensive list of questions on the **Mathematical Foundations of Comp
 - **Recurrence Relations**  
 - **Elementary Combinatorics**
 
-**Assigned and Overseen by Prof. Katakamsetty Venkatakrishna Rao, Department of Computer Science and Engineering**
+Assigned and Overseen by Prof. Katakamsetty Venkatakrishna Rao, Department of Computer Science and Engineering
